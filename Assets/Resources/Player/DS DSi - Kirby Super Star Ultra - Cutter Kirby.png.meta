@@ -1,0 +1,4689 @@
+fileFormatVersion: 2
+guid: 8ea813890f9dd544cb52ea33b44ad4e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3060080724014009886
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_0
+  - first:
+      213: 2051935832197674674
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_1
+  - first:
+      213: 174132991389671111
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_2
+  - first:
+      213: -7351143535915488292
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_3
+  - first:
+      213: -233236103868896344
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_4
+  - first:
+      213: 6412219632214853254
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_5
+  - first:
+      213: 9184859713048288840
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_6
+  - first:
+      213: -8705518168992516624
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_7
+  - first:
+      213: 3249585837816128449
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_8
+  - first:
+      213: 8466709419053677915
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_9
+  - first:
+      213: -5195093224913311541
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_10
+  - first:
+      213: -645209064943673329
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_11
+  - first:
+      213: 5939253870146172147
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_12
+  - first:
+      213: 8127055533965696997
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_13
+  - first:
+      213: 1110680114246207291
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_14
+  - first:
+      213: 5262549323696987648
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_15
+  - first:
+      213: 2708871991845403134
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_16
+  - first:
+      213: 4436049518855979621
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_17
+  - first:
+      213: -5260639499887566451
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_18
+  - first:
+      213: -6795527912253001225
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_19
+  - first:
+      213: -8639158268684540711
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_20
+  - first:
+      213: -9023136594601005125
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_21
+  - first:
+      213: 8483427118752144267
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_22
+  - first:
+      213: 6700137310543271614
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_23
+  - first:
+      213: 8933557561080362960
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_24
+  - first:
+      213: -9022545995946223036
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_25
+  - first:
+      213: 5730815811546069915
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_26
+  - first:
+      213: -4259223619397234013
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_27
+  - first:
+      213: 3966975017183638978
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_28
+  - first:
+      213: 1725951805095898212
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_29
+  - first:
+      213: -7537388629268531825
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_30
+  - first:
+      213: -8056030086506102424
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_31
+  - first:
+      213: 384241383635791705
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_32
+  - first:
+      213: 3764901129483951267
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_33
+  - first:
+      213: -4105545717041322502
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_34
+  - first:
+      213: -79787081849177873
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_35
+  - first:
+      213: 3833224115002071890
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_36
+  - first:
+      213: -5803403870470224122
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_37
+  - first:
+      213: -4232491561187894699
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_38
+  - first:
+      213: 7210103520440972525
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_39
+  - first:
+      213: -3266725049724046758
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_40
+  - first:
+      213: 4357382910029215547
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_41
+  - first:
+      213: -1245712575261281806
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_42
+  - first:
+      213: -9177599382899819938
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_43
+  - first:
+      213: 540439213769636360
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_44
+  - first:
+      213: 3176895171960089452
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_45
+  - first:
+      213: -2060879001786281865
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_46
+  - first:
+      213: 8518437996151267118
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_47
+  - first:
+      213: -1500975710994457294
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_48
+  - first:
+      213: -8571003490853495545
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_49
+  - first:
+      213: 3812049903506619909
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_50
+  - first:
+      213: -8092673293560521956
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_51
+  - first:
+      213: 7964631136666084703
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_52
+  - first:
+      213: 4027904543914761229
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_53
+  - first:
+      213: 244635077957104074
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_54
+  - first:
+      213: 5985701805099657139
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_55
+  - first:
+      213: -8019406419755354578
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_56
+  - first:
+      213: 5432697428568149237
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_57
+  - first:
+      213: -1914158435559510916
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_58
+  - first:
+      213: 7733218182823706088
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_59
+  - first:
+      213: 6410606827532619273
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_60
+  - first:
+      213: 5505718611029383404
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_61
+  - first:
+      213: 3931229913377616900
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_62
+  - first:
+      213: -5519951792084256283
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_63
+  - first:
+      213: 6197425838750046906
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_64
+  - first:
+      213: -4184291637797833503
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_65
+  - first:
+      213: 7233052182061303908
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_66
+  - first:
+      213: 3093683185869075319
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_67
+  - first:
+      213: -3052217797123920655
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_68
+  - first:
+      213: -3856788089762198688
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_69
+  - first:
+      213: 9180994164409840541
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_70
+  - first:
+      213: 4538507437958338110
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_71
+  - first:
+      213: 4538181138414090190
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_72
+  - first:
+      213: -8232657422768114555
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_73
+  - first:
+      213: 8143316653968258356
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_74
+  - first:
+      213: 4799161400137938510
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_75
+  - first:
+      213: -997394904743382489
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_76
+  - first:
+      213: 1333771756233319731
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_77
+  - first:
+      213: 7183578162319828988
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_78
+  - first:
+      213: 3591418085618523854
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_79
+  - first:
+      213: 8165774504354372442
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_80
+  - first:
+      213: 6756340857753682967
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_81
+  - first:
+      213: -830426187945967824
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_82
+  - first:
+      213: -7517846248007514107
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_83
+  - first:
+      213: 886063164247337766
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_84
+  - first:
+      213: 2359611651113041640
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_85
+  - first:
+      213: 6518699513370777995
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_86
+  - first:
+      213: -2300747757457270350
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_87
+  - first:
+      213: -8312184043768684777
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_88
+  - first:
+      213: -4846507647645198932
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_89
+  - first:
+      213: 4423422861481451863
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_90
+  - first:
+      213: -8281556415383982383
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_91
+  - first:
+      213: 2252430350076486272
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_92
+  - first:
+      213: -5789382850720299448
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_93
+  - first:
+      213: -4508218195173521367
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_94
+  - first:
+      213: -2013575192076774306
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_95
+  - first:
+      213: 6972008934110922397
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_96
+  - first:
+      213: -9044042746494860133
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_97
+  - first:
+      213: -9167702175443896019
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_98
+  - first:
+      213: -6074906010760716746
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_99
+  - first:
+      213: 3447152176628361301
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_100
+  - first:
+      213: 8171929284664337742
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_101
+  - first:
+      213: -2194636026435809648
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_102
+  - first:
+      213: 3188436625965923064
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_103
+  - first:
+      213: 3788552830845574649
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_104
+  - first:
+      213: -8702158227873392159
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_105
+  - first:
+      213: 7672536275803181300
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_106
+  - first:
+      213: 6647940715831779273
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_107
+  - first:
+      213: -781386259331820674
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_108
+  - first:
+      213: 7945221876709659582
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_109
+  - first:
+      213: -4142830337276518500
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_110
+  - first:
+      213: -1218909320270080715
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_111
+  - first:
+      213: -910450362696097450
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_112
+  - first:
+      213: 4916567374865097582
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_113
+  - first:
+      213: 2386710951341087923
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_114
+  - first:
+      213: -6904207570766791335
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_115
+  - first:
+      213: -8170162481485653117
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_116
+  - first:
+      213: -5174417600363362618
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_117
+  - first:
+      213: 1437731034611131848
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_118
+  - first:
+      213: 7018462193460949121
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_119
+  - first:
+      213: -970130806764336442
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_120
+  - first:
+      213: 3072651750530668078
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_121
+  - first:
+      213: -5825053275738036470
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_122
+  - first:
+      213: 340422891149961664
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_123
+  - first:
+      213: -4032215875546771217
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_124
+  - first:
+      213: -3633197633031866050
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_125
+  - first:
+      213: 6646344520987848914
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_126
+  - first:
+      213: -7570148807607787290
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_127
+  - first:
+      213: -4772621784387813543
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_128
+  - first:
+      213: 2297919076970412456
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_129
+  - first:
+      213: 1612189018699717374
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_130
+  - first:
+      213: -802116365357544600
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_131
+  - first:
+      213: -579973978597356168
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_132
+  - first:
+      213: 6769130404825541245
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_133
+  - first:
+      213: 6242246088473972183
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_134
+  - first:
+      213: -4519185213900330252
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_135
+  - first:
+      213: -3005426184809441966
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_136
+  - first:
+      213: 7027556343948480784
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_137
+  - first:
+      213: 7845592691876326335
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_138
+  - first:
+      213: -4175376358356260139
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_139
+  - first:
+      213: 1874887598481733459
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_140
+  - first:
+      213: -4619981865824750967
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_141
+  - first:
+      213: 2799722956723523924
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_142
+  - first:
+      213: 6662218495942196581
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_143
+  - first:
+      213: 1106449792472053270
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_144
+  - first:
+      213: 426608813110118822
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_145
+  - first:
+      213: -8150927208039836423
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_146
+  - first:
+      213: 8073574030758403272
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_147
+  - first:
+      213: -2358686255123955301
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_148
+  - first:
+      213: 6420379158581947136
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_149
+  - first:
+      213: 7356603676862014702
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_150
+  - first:
+      213: 8126316734059148404
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_151
+  - first:
+      213: -8527729089284197003
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_152
+  - first:
+      213: 6357163891012789854
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_153
+  - first:
+      213: 860418167571048408
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_154
+  - first:
+      213: 7879193747107482065
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_155
+  - first:
+      213: -7747755931161201706
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_156
+  - first:
+      213: -322075041319970796
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_157
+  - first:
+      213: 4846715033840201554
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_158
+  - first:
+      213: -6533143883134019840
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_159
+  - first:
+      213: -7131495012684282353
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_160
+  - first:
+      213: -6902991970588147207
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_161
+  - first:
+      213: -3021678314885339021
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_162
+  - first:
+      213: -3268250986526002480
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_163
+  - first:
+      213: -3036012242329420428
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_164
+  - first:
+      213: -2229631460400252307
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_165
+  - first:
+      213: -6308466863819609097
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_166
+  - first:
+      213: -662576788297088237
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_167
+  - first:
+      213: -7583321471711197000
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_168
+  - first:
+      213: 5447131463460500125
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_169
+  - first:
+      213: -8728173957556580261
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_170
+  - first:
+      213: -4740150119088571375
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_171
+  - first:
+      213: 3793438586582749547
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_172
+  - first:
+      213: 5948123906323716884
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_173
+  - first:
+      213: -5925630184403201013
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_174
+  - first:
+      213: 3458836243695051112
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_175
+  - first:
+      213: -1768778238998585197
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_176
+  - first:
+      213: -3679194553327930109
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_177
+  - first:
+      213: 3954655836032270562
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_178
+  - first:
+      213: -918454236069886363
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_179
+  - first:
+      213: -4576673676367903865
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_180
+  - first:
+      213: 4218056851554156757
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_181
+  - first:
+      213: 5400189243310010792
+    second: DS DSi - Kirby Super Star Ultra - Cutter Kirby_182
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 595
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e00ea9437977a20800000000000000
+      internalID: 3060080724014009886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 591
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6b90c84c0f97c10800000000000000
+      internalID: 2051935832197674674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 590
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce15777805aa6200800000000000000
+      internalID: 174132991389671111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 591
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb29d0f6ed7bf990800000000000000
+      internalID: -7351143535915488292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 589
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2910dff063ccf0800000000000000
+      internalID: -233236103868896344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 594
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686c3f738c7ccf850800000000000000
+      internalID: 6412219632214853254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 594
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e1a0cde3d277f70800000000000000
+      internalID: 9184859713048288840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 594
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5fd7f5959cf2780800000000000000
+      internalID: -8705518168992516624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 594
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3ab2a3a19d81d20800000000000000
+      internalID: 3249585837816128449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 594
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5df52bab5bcf7570800000000000000
+      internalID: 8466709419053677915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 594
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8e00a9c3257e7b0800000000000000
+      internalID: -5195093224913311541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 594
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00ab2e16c1cb07f0800000000000000
+      internalID: -645209064943673329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_12
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 594
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f43de86de77c6250800000000000000
+      internalID: 5939253870146172147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_13
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 594
+        width: 29
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efd5ebf2f919c070800000000000000
+      internalID: 8127055533965696997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_14
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 594
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b374cb4edade96f00800000000000000
+      internalID: 1110680114246207291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_15
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 578
+        width: 26
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e5eeb4ab4580940800000000000000
+      internalID: 5262549323696987648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_16
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 578
+        width: 24
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef933ff69b8d79520800000000000000
+      internalID: 2708871991845403134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_17
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 578
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5620471c883009d30800000000000000
+      internalID: 4436049518855979621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_18
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 578
+        width: 39
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8120d53f347ef6b0800000000000000
+      internalID: -5260639499887566451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_19
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 578
+        width: 26
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f178e83e5f61b1a0800000000000000
+      internalID: -6795527912253001225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_20
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 601
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4edaca35b8b1880800000000000000
+      internalID: -8639158268684540711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_21
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 601
+        width: 31
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfaaf6e21167c280800000000000000
+      internalID: -9023136594601005125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_22
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 601
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b132374003bb570800000000000000
+      internalID: 8483427118752144267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_23
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 600
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6d545926babfc50800000000000000
+      internalID: 6700137310543271614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_24
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 576
+        width: 27
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d733b0154f5afb70800000000000000
+      internalID: 8933557561080362960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 553
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a900e583a79c280800000000000000
+      internalID: -9022545995946223036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_26
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 549
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b35601e92f78f40800000000000000
+      internalID: 5730815811546069915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 548
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2dfda3fa234e4c0800000000000000
+      internalID: -4259223619397234013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_28
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 549
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5741c92c68d0730800000000000000
+      internalID: 3966975017183638978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 547
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46c6f22b500d3f710800000000000000
+      internalID: 1725951805095898212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 544
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85716af9f0d56790800000000000000
+      internalID: -7537388629268531825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_31
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 545
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861c1f9a15b333090800000000000000
+      internalID: -8056030086506102424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_32
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 545
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95fad9ba089155500800000000000000
+      internalID: 384241383635791705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 545
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac9b5541ad9f3430800000000000000
+      internalID: 3764901129483951267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_34
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 544
+        width: 26
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af520a62ceb2607c0800000000000000
+      internalID: -4105545717041322502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_35
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 545
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8f6b0621a84eef0800000000000000
+      internalID: -79787081849177873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_36
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 545
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd827f509523530800000000000000
+      internalID: 3833224115002071890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 545
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607ce747dea267fa0800000000000000
+      internalID: -5803403870470224122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_38
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 545
+        width: 34
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a9e8c895b2345c0800000000000000
+      internalID: -4232491561187894699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_39
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 575
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de47da973fe6f0460800000000000000
+      internalID: 7210103520440972525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_40
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 575
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52f35800e24aa2d0800000000000000
+      internalID: -3266725049724046758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_41
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 575
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3736a69ba8887c30800000000000000
+      internalID: 4357382910029215547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_42
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 576
+        width: 31
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1705b430756bee0800000000000000
+      internalID: -1245712575261281806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_43
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 509
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a796b7cfd92a080800000000000000
+      internalID: -9177599382899819938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 505
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a3e6ff996008700800000000000000
+      internalID: 540439213769636360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 504
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ba555b359961c20800000000000000
+      internalID: 3176895171960089452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 505
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 770977587794663e0800000000000000
+      internalID: -2060879001786281865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_47
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 503
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f59c19932973670800000000000000
+      internalID: 8518437996151267118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 499
+        width: 28
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d9fa91b867b2be0800000000000000
+      internalID: -1500975710994457294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 500
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d5b077cbdad0980800000000000000
+      internalID: -8571003490853495545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 496
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ef29ca03f17e430800000000000000
+      internalID: 3812049903506619909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_51
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 494
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bd80e248c01bf80800000000000000
+      internalID: -8092673293560521956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_52
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 495
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f556ff302dd088e60800000000000000
+      internalID: 7964631136666084703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 495
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c983987ddf5e730800000000000000
+      internalID: 4027904543914761229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_54
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 497
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1bb39ae4e156300800000000000000
+      internalID: 244635077957104074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_55
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 500
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b72160041c711350800000000000000
+      internalID: 5985701805099657139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_56
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 500
+        width: 28
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26bef0995855b090800000000000000
+      internalID: -8019406419755354578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_57
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 495
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc8bf11781d46b40800000000000000
+      internalID: 5432697428568149237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_58
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 495
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c68a46b0b8f65e0800000000000000
+      internalID: -1914158435559510916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_59
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 496
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed7cc507f8e15b60800000000000000
+      internalID: 7733218182823706088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_60
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 497
+        width: 29
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e86cdd1fc07f850800000000000000
+      internalID: 6410606827532619273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_61
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 497
+        width: 29
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8d9abf7ed386c40800000000000000
+      internalID: 5505718611029383404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_62
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 495
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404334517c88e8630800000000000000
+      internalID: 3931229913377616900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_63
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 496
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9798f47113563b0800000000000000
+      internalID: -5519951792084256283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_64
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 490
+        width: 43
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba168807fda10650800000000000000
+      internalID: 6197425838750046906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_65
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 485
+        width: 43
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e43c6cbce86ee5c0800000000000000
+      internalID: -4184291637797833503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 467
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468c0a123a6f06460800000000000000
+      internalID: 7233052182061303908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 463
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773335d6778feea20800000000000000
+      internalID: 3093683185869075319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 462
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcad49b51854a5d0800000000000000
+      internalID: -3052217797123920655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 462
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b44cf9aafe97ac0800000000000000
+      internalID: -3856788089762198688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_70
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 461
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93359eac81796f70800000000000000
+      internalID: 9180994164409840541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_71
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 456
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3699f108740cfe30800000000000000
+      internalID: 4538507437958338110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_72
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 455
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7bc8973bbdafe30800000000000000
+      internalID: 4538181138414090190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 451
+        width: 28
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5847c6641b9bfbd80800000000000000
+      internalID: -8232657422768114555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_74
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 449
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435fc450a5fd20170800000000000000
+      internalID: 8143316653968258356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_75
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 450
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46fcfacddb0a9240800000000000000
+      internalID: 4799161400137938510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_76
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 452
+        width: 26
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7227cf95e9a8822f0800000000000000
+      internalID: -997394904743382489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_77
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 448
+        width: 22
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3356cbd7852828210800000000000000
+      internalID: 1333771756233319731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_78
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 448
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7a355474231b360800000000000000
+      internalID: 7183578162319828988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_79
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 450
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece943188b747d130800000000000000
+      internalID: 3591418085618523854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_80
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 446
+        width: 16
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bdbf7c5a8a25170800000000000000
+      internalID: 8165774504354372442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_81
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 455
+        width: 14
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714cdd7a63853cd50800000000000000
+      internalID: 6756340857753682967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_82
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 457
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f7c4728cbb974f0800000000000000
+      internalID: -830426187945967824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_83
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 457
+        width: 23
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508428f2bae3ba790800000000000000
+      internalID: -7517846248007514107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_84
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 460
+        width: 29
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b6589d0cdeb4c00800000000000000
+      internalID: 886063164247337766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_85
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 459
+        width: 29
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee37708b460fb020800000000000000
+      internalID: 2359611651113041640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_86
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 455
+        width: 21
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b891afb7ba2177a50800000000000000
+      internalID: 6518699513370777995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_87
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 453
+        width: 14
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b99bfeba1a1210e0800000000000000
+      internalID: -2300747757457270350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 423
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f5f7be6a035ac80800000000000000
+      internalID: -8312184043768684777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_89
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 419
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5d4ece8febdbcb0800000000000000
+      internalID: -4846507647645198932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_90
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 418
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751a1fdf7a7236d30800000000000000
+      internalID: 4423422861481451863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_91
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 418
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de2ea95150021d80800000000000000
+      internalID: -8281556415383982383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_92
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 417
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0822e91387d324f10800000000000000
+      internalID: 2252430350076486272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_93
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 409
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846041288faf7afa0800000000000000
+      internalID: -5789382850720299448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_94
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 410
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928cab2ef679f61c0800000000000000
+      internalID: -4508218195173521367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_95
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 409
+        width: 36
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5499bbf7085e04e0800000000000000
+      internalID: -2013575192076774306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_96
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 408
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d960880bf2d81c060800000000000000
+      internalID: 6972008934110922397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_97
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 409
+        width: 30
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94c9b91a0b1d7280800000000000000
+      internalID: -9044042746494860133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_98
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 408
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29371aa177c5c080800000000000000
+      internalID: -9167702175443896019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_99
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 406
+        width: 30
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ed8b06b2991bba0800000000000000
+      internalID: -6074906010760716746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_100
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 381
+        width: 30
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558e5ae04aeb6df20800000000000000
+      internalID: 3447152176628361301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_101
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 377
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45a70e3366886170800000000000000
+      internalID: 8171929284664337742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_102
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 376
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec40169261b81e0800000000000000
+      internalID: -2194636026435809648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_103
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 376
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa3b8fd73a9f3c20800000000000000
+      internalID: 3188436625965923064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_104
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 375
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd95f1ab4a39430800000000000000
+      internalID: 3788552830845574649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_105
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 364
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e91d50a239bb3780800000000000000
+      internalID: -8702158227873392159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_106
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f01c8d87135a7a60800000000000000
+      internalID: 7672536275803181300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_107
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 366
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf5207dbda324c50800000000000000
+      internalID: 6647940715831779273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_108
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 365
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73d72c4655f725f0800000000000000
+      internalID: -781386259331820674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_109
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 364
+        width: 25
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb311f68339134e60800000000000000
+      internalID: 7945221876709659582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_110
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 365
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9fdbe502c5b186c0800000000000000
+      internalID: -4142830337276518500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_111
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 367
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53593e76e60951fe0800000000000000
+      internalID: -1218909320270080715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_112
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 366
+        width: 26
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651afd9083e6d53f0800000000000000
+      internalID: -910450362696097450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_113
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 347
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63eb157af72b3440800000000000000
+      internalID: 4916567374865097582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_114
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 349
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc583407fc4f1120800000000000000
+      internalID: 2386710951341087923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 315
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95df1e06bc35f20a0800000000000000
+      internalID: -6904207570766791335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_116
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 325
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bd2dda280cd9e80800000000000000
+      internalID: -8170162481485653117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_117
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 318
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c600d29b96c038b0800000000000000
+      internalID: -5174417600363362618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_118
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 318
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c52d8032c8d3f310800000000000000
+      internalID: 1437731034611131848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_119
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 320
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180bfb6fd26966160800000000000000
+      internalID: 7018462193460949121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_120
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 321
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca0625db276982f0800000000000000
+      internalID: -970130806764336442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_121
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 320
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26dcdccc7044aa20800000000000000
+      internalID: 3072651750530668078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_122
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 321
+        width: 24
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07a8ed78e0492fa0800000000000000
+      internalID: -5825053275738036470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_123
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 324
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9a76cd0dc69b400800000000000000
+      internalID: 340422891149961664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_124
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 325
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe018585601ba08c0800000000000000
+      internalID: -4032215875546771217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_125
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 324
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e397854900a449dc0800000000000000
+      internalID: -3633197633031866050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_126
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 328
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d03854c02f8c3c50800000000000000
+      internalID: 6646344520987848914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_127
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 325
+        width: 61
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0e0b194cd61f690800000000000000
+      internalID: -7570148807607787290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_128
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 327
+        width: 38
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ff54606cd34cdb0800000000000000
+      internalID: -4772621784387813543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_129
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 348
+        width: 60
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a93a61c939d3ef10800000000000000
+      internalID: 2297919076970412456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_130
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 295
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efad16aee55af5610800000000000000
+      internalID: 1612189018699717374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_131
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 301
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b065e5a6f4ed4f0800000000000000
+      internalID: -802116365357544600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_132
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 275
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d0cb24db483f7f0800000000000000
+      internalID: -579973978597356168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_133
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 283
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a2ce12d38c0fd50800000000000000
+      internalID: 6769130404825541245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_134
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 280
+        width: 28
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd0010aeb9e0a650800000000000000
+      internalID: 6242246088473972183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_135
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 282
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fae54bddf0a841c0800000000000000
+      internalID: -4519185213900330252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_136
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 280
+        width: 29
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25596cfeec49a46d0800000000000000
+      internalID: -3005426184809441966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_137
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 279
+        width: 27
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0119710e245e68160800000000000000
+      internalID: 7027556343948480784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_138
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 282
+        width: 32
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb60bb4cf421ec60800000000000000
+      internalID: 7845592691876326335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_139
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 268
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da6c9cf2551e06c0800000000000000
+      internalID: -4175376358356260139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_140
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 240
+        width: 27
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f9455650f40a10800000000000000
+      internalID: 1874887598481733459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_141
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 238
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982f4c288f682efb0800000000000000
+      internalID: -4619981865824750967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_142
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 235
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4511301123d9ad620800000000000000
+      internalID: 2799722956723523924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_143
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 234
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56dfba29c64f47c50800000000000000
+      internalID: 6662218495942196581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_144
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 233
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616f91a5936ea5f00800000000000000
+      internalID: 1106449792472053270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_145
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 233
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9ca7b847e9be500800000000000000
+      internalID: 426608813110118822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_146
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 233
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f418b6c3e612ee80800000000000000
+      internalID: -8150927208039836423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_147
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 236
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc5c2b2ec81b0070800000000000000
+      internalID: 8073574030758403272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_148
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 240
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b918dba0953444fd0800000000000000
+      internalID: -2358686255123955301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_149
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 198
+        width: 32
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b299ef3d4c91950800000000000000
+      internalID: 6420379158581947136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_150
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee461b03118e71660800000000000000
+      internalID: 7356603676862014702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_151
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 204
+        width: 31
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47478e9b30a76c070800000000000000
+      internalID: 8126316734059148404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_152
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 183
+        width: 31
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575337c339b67a980800000000000000
+      internalID: -8527729089284197003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_153
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 183
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56e1ce80ee293850800000000000000
+      internalID: 6357163891012789854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_154
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 183
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d76d54c3c1d0fb00800000000000000
+      internalID: 860418167571048408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_155
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 183
+        width: 33
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d902dc97f4885d60800000000000000
+      internalID: 7879193747107482065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_156
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 184
+        width: 30
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3f5bca7017a7490800000000000000
+      internalID: -7747755931161201706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_157
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 184
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4189a13d472c78bf0800000000000000
+      internalID: -322075041319970796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_158
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 184
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f279fe4adf24340800000000000000
+      internalID: 4846715033840201554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_159
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 183
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007d74b904c9555a0800000000000000
+      internalID: -6533143883134019840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_160
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 183
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06cb7bf117d70d90800000000000000
+      internalID: -7131495012684282353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_161
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 169
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f148b95065a330a0800000000000000
+      internalID: -6902991970588147207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_162
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 151
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37822c70597d016d0800000000000000
+      internalID: -3021678314885339021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_163
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 143
+        width: 24
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d23c4f2b07d4a2d0800000000000000
+      internalID: -3268250986526002480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_164
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 153
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47db73a73faedd5d0800000000000000
+      internalID: -3036012242329420428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_165
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 141
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6abec6fff1ce01e0800000000000000
+      internalID: -2229631460400252307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_166
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 139
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fba5b0afc2d378a0800000000000000
+      internalID: -6308466863819609097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_167
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 139
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3130229ebed0ec6f0800000000000000
+      internalID: -662576788297088237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_168
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 94
+        width: 34
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8cf05bc41a2c690800000000000000
+      internalID: -7583321471711197000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_169
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 123
+        width: 8
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92ba64b439189b40800000000000000
+      internalID: 5447131463460500125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_170
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 94
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50560a870c4fd680800000000000000
+      internalID: -8728173957556580261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_171
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 88
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c33b1c49a973eb0800000000000000
+      internalID: -4740150119088571375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_172
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 84
+        width: 27
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b615686cb4005a430800000000000000
+      internalID: 3793438586582749547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_173
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 92
+        width: 27
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b1f64ad2bfb8250800000000000000
+      internalID: 5948123906323716884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_174
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 84
+        width: 24
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04905c1ebee3cda0800000000000000
+      internalID: -5925630184403201013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_175
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 66
+        width: 45
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861a0b9ec31400030800000000000000
+      internalID: 3458836243695051112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_176
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 73
+        width: 37
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906c0220990477e0800000000000000
+      internalID: -1768778238998585197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_177
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 69
+        width: 49
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30536550c00e0fcc0800000000000000
+      internalID: -3679194553327930109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_178
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 63
+        width: 38
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e001abb782c1e630800000000000000
+      internalID: 3954655836032270562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_179
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 63
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660a9c0dbef043f0800000000000000
+      internalID: -918454236069886363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_180
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 56
+        width: 42
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783c5332a836c70c0800000000000000
+      internalID: -4576673676367903865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_181
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 58
+        width: 36
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0c947bb5c898a30800000000000000
+      internalID: 4218056851554156757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DS DSi - Kirby Super Star Ultra - Cutter Kirby_182
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 60
+        width: 26
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1f06f518351fa40800000000000000
+      internalID: 5400189243310010792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f0a0a10c3d088fa4a8cd470b350b02ae
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_0: 3060080724014009886
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_1: 2051935832197674674
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_10: -5195093224913311541
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_100: 3447152176628361301
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_101: 8171929284664337742
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_102: -2194636026435809648
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_103: 3188436625965923064
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_104: 3788552830845574649
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_105: -8702158227873392159
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_106: 7672536275803181300
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_107: 6647940715831779273
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_108: -781386259331820674
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_109: 7945221876709659582
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_11: -645209064943673329
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_110: -4142830337276518500
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_111: -1218909320270080715
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_112: -910450362696097450
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_113: 4916567374865097582
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_114: 2386710951341087923
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_115: -6904207570766791335
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_116: -8170162481485653117
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_117: -5174417600363362618
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_118: 1437731034611131848
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_119: 7018462193460949121
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_12: 5939253870146172147
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_120: -970130806764336442
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_121: 3072651750530668078
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_122: -5825053275738036470
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_123: 340422891149961664
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_124: -4032215875546771217
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_125: -3633197633031866050
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_126: 6646344520987848914
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_127: -7570148807607787290
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_128: -4772621784387813543
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_129: 2297919076970412456
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_13: 8127055533965696997
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_130: 1612189018699717374
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_131: -802116365357544600
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_132: -579973978597356168
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_133: 6769130404825541245
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_134: 6242246088473972183
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_135: -4519185213900330252
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_136: -3005426184809441966
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_137: 7027556343948480784
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_138: 7845592691876326335
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_139: -4175376358356260139
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_14: 1110680114246207291
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_140: 1874887598481733459
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_141: -4619981865824750967
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_142: 2799722956723523924
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_143: 6662218495942196581
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_144: 1106449792472053270
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_145: 426608813110118822
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_146: -8150927208039836423
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_147: 8073574030758403272
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_148: -2358686255123955301
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_149: 6420379158581947136
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_15: 5262549323696987648
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_150: 7356603676862014702
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_151: 8126316734059148404
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_152: -8527729089284197003
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_153: 6357163891012789854
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_154: 860418167571048408
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_155: 7879193747107482065
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_156: -7747755931161201706
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_157: -322075041319970796
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_158: 4846715033840201554
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_159: -6533143883134019840
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_16: 2708871991845403134
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_160: -7131495012684282353
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_161: -6902991970588147207
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_162: -3021678314885339021
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_163: -3268250986526002480
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_164: -3036012242329420428
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_165: -2229631460400252307
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_166: -6308466863819609097
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_167: -662576788297088237
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_168: -7583321471711197000
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_169: 5447131463460500125
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_17: 4436049518855979621
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_170: -8728173957556580261
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_171: -4740150119088571375
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_172: 3793438586582749547
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_173: 5948123906323716884
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_174: -5925630184403201013
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_175: 3458836243695051112
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_176: -1768778238998585197
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_177: -3679194553327930109
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_178: 3954655836032270562
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_179: -918454236069886363
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_18: -5260639499887566451
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_180: -4576673676367903865
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_181: 4218056851554156757
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_182: 5400189243310010792
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_19: -6795527912253001225
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_2: 174132991389671111
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_20: -8639158268684540711
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_21: -9023136594601005125
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_22: 8483427118752144267
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_23: 6700137310543271614
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_24: 8933557561080362960
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_25: -9022545995946223036
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_26: 5730815811546069915
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_27: -4259223619397234013
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_28: 3966975017183638978
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_29: 1725951805095898212
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_3: -7351143535915488292
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_30: -7537388629268531825
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_31: -8056030086506102424
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_32: 384241383635791705
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_33: 3764901129483951267
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_34: -4105545717041322502
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_35: -79787081849177873
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_36: 3833224115002071890
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_37: -5803403870470224122
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_38: -4232491561187894699
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_39: 7210103520440972525
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_4: -233236103868896344
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_40: -3266725049724046758
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_41: 4357382910029215547
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_42: -1245712575261281806
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_43: -9177599382899819938
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_44: 540439213769636360
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_45: 3176895171960089452
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_46: -2060879001786281865
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_47: 8518437996151267118
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_48: -1500975710994457294
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_49: -8571003490853495545
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_5: 6412219632214853254
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_50: 3812049903506619909
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_51: -8092673293560521956
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_52: 7964631136666084703
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_53: 4027904543914761229
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_54: 244635077957104074
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_55: 5985701805099657139
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_56: -8019406419755354578
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_57: 5432697428568149237
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_58: -1914158435559510916
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_59: 7733218182823706088
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_6: 9184859713048288840
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_60: 6410606827532619273
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_61: 5505718611029383404
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_62: 3931229913377616900
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_63: -5519951792084256283
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_64: 6197425838750046906
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_65: -4184291637797833503
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_66: 7233052182061303908
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_67: 3093683185869075319
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_68: -3052217797123920655
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_69: -3856788089762198688
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_7: -8705518168992516624
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_70: 9180994164409840541
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_71: 4538507437958338110
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_72: 4538181138414090190
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_73: -8232657422768114555
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_74: 8143316653968258356
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_75: 4799161400137938510
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_76: -997394904743382489
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_77: 1333771756233319731
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_78: 7183578162319828988
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_79: 3591418085618523854
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_8: 3249585837816128449
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_80: 8165774504354372442
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_81: 6756340857753682967
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_82: -830426187945967824
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_83: -7517846248007514107
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_84: 886063164247337766
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_85: 2359611651113041640
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_86: 6518699513370777995
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_87: -2300747757457270350
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_88: -8312184043768684777
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_89: -4846507647645198932
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_9: 8466709419053677915
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_90: 4423422861481451863
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_91: -8281556415383982383
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_92: 2252430350076486272
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_93: -5789382850720299448
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_94: -4508218195173521367
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_95: -2013575192076774306
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_96: 6972008934110922397
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_97: -9044042746494860133
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_98: -9167702175443896019
+      DS DSi - Kirby Super Star Ultra - Cutter Kirby_99: -6074906010760716746
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

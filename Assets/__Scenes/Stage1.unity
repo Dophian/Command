@@ -4012,17 +4012,21 @@ PrefabInstance:
       propertyPath: jump
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 590735665539204366, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
+      propertyPath: defaultspeed
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 4392077391213444414, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
       propertyPath: m_BodyType
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5307565279457685427, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.671
+      value: -0.969
       objectReference: {fileID: 0}
     - target: {fileID: 5307565279457685427, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.03
+      value: -0.129
       objectReference: {fileID: 0}
     - target: {fileID: 5307565279457685427, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
       propertyPath: m_LocalPosition.z

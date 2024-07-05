@@ -19,31 +19,37 @@ public class PlayerController : MonoBehaviour
         public float tapTime;
         public Action onDoubleTap;
     }
+
     private Tapinfo[] _tapInfos =
-        { 
+        {
         new Tapinfo(KeyCode.A, 0f),
         new Tapinfo(KeyCode.D, 0f)
         };
 
-    private float _doubleTapTime = 0.5f;
+    private float _doubleTapTime = 0.25f;
 
 
     Rigidbody2D rigidbody;
     public float speed;
     public float defaultspeed;
+    SpriteRenderer spriteRenderer;
 
 
     public float jump = 3.0f;
     public LayerMask grondLayer;
     bool goJump = false;
     bool onGround = false;
+    Animator anim;
 
     private void Start()
     {
         defaultspeed = speed;
         rigidbody = GetComponent<Rigidbody2D>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
 
-        _tapInfos[0].onDoubleTap += () => Debug.Log("W 키 더블탭");
+
+        _tapInfos[0].onDoubleTap += () => Debug.Log("A 키 더블탭");
         _tapInfos[1].onDoubleTap += () => Debug.Log("D 키 더블탭");
     }
 
@@ -63,21 +69,22 @@ public class PlayerController : MonoBehaviour
         }
 
         float hor = Input.GetAxis("Horizontal");
-        rigidbody.velocity = new Vector2(hor * defaultspeed , rigidbody.velocity.y);
-
-        //if(Input.GetKey(KeyCode.LeftShift))
-        //{
-        //    defaultspeed = speed * 3;
-        //}
-        //else
-        //{
-        //    defaultspeed = speed;
-        //}
+        rigidbody.velocity = new Vector2(hor * defaultspeed, rigidbody.velocity.y);
 
         if (Input.GetButtonDown("Jump"))
         {
             Jump();
         }
+
+        // 걷기 애니메이션.
+        if (rigidbody.velocity.normalized.x == 0)
+            anim.SetBool("IsWalking", false);
+        else
+            anim.SetBool("IsWalking", true);
+
+        // 방향 전환.
+        if (Input.GetButtonDown("Horizontal"))
+            spriteRenderer.flipX = Input.GetAxisRaw("Horizontal") == -1;
     }
 
     private void FixedUpdate()

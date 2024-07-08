@@ -55,18 +55,18 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        for (int i = 0; i < _tapInfos.Length; i++)
-        {
-            if (Input.GetKeyDown(_tapInfos[i].keyCode))
-            {
-                float elapsedTime = Time.time - _tapInfos[i].tapTime;
+        //for (int i = 0; i < _tapInfos.Length; i++)
+        //{
+        //    if (Input.GetKeyDown(_tapInfos[i].keyCode))
+        //    {
+        //        float elapsedTime = Time.time - _tapInfos[i].tapTime;
 
-                if (elapsedTime <= _doubleTapTime)
-                    defaultspeed = speed * 3;
+        //        if (elapsedTime <= _doubleTapTime)
+        //            defaultspeed = speed * 3;
 
-                _tapInfos[i].tapTime = Time.time;
-            }
-        }
+        //        _tapInfos[i].tapTime = Time.time;
+        //    }
+        //}
 
         float hor = Input.GetAxis("Horizontal");
         rigidbody.velocity = new Vector2(hor * defaultspeed, rigidbody.velocity.y);
@@ -83,8 +83,8 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("IsWalking", true);
 
         // 방향 전환.
-        if (Input.GetButtonDown("Horizontal"))
-            spriteRenderer.flipX = Input.GetAxisRaw("Horizontal") == -1;
+        if (Mathf.Abs(hor) > 0)
+            spriteRenderer.flipX = hor < 0;
     }
 
     private void FixedUpdate()

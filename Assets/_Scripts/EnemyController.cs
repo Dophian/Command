@@ -38,6 +38,9 @@ public class EnemyController : MonoBehaviour
 
     [Header("Other")]
     private Animator enemyAnim;
+    public float cooldown;
+    float lastjump;
+
     //[SerializeField] SpriteRenderer spriteRenderer;
     private void Awake()
     {
@@ -87,8 +90,7 @@ public class EnemyController : MonoBehaviour
     {
         rigid.velocity = new Vector2(moveSpeed * moveDirection, rigid.velocity.y);
 
-        if (
-            checkingWall)
+        if (checkingWall)
         {
             if (facingRight)
             {
@@ -102,6 +104,11 @@ public class EnemyController : MonoBehaviour
     }
     private void JumpAttack()
     {
+        if (Time.time - lastjump < cooldown)
+        {
+            return;
+        }
+        lastjump = Time.time;
         float distanceFromPlayer = player.position.x - transform.position.x;
         if (isGrounded)
         {

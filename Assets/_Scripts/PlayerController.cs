@@ -32,8 +32,18 @@ public class PlayerController : MonoBehaviour
     Rigidbody2D rigidbody;
     public float speed;
     public float defaultspeed;
+
+    // 대쉬
+    public bool isDash;
+    public float dashSpeed;
+    public float defaultTime;
+    private float dashTime;
+
     SpriteRenderer spriteRenderer;
 
+    private bool isJumping;
+    private int maxJumps = 3;
+    private int remainingJumps;
 
     public float jump = 3.0f;
     public LayerMask grondLayer;
@@ -71,16 +81,21 @@ public class PlayerController : MonoBehaviour
         float hor = Input.GetAxis("Horizontal");
         rigidbody.velocity = new Vector2(hor * defaultspeed, rigidbody.velocity.y);
 
-        if (Input.GetButtonDown("Jump"))
-        {
-            Jump();
-        }
-
         // 걷기 애니메이션.
         if (rigidbody.velocity.normalized.x == 0)
             anim.SetBool("IsWalking", false);
         else
             anim.SetBool("IsWalking", true);
+
+        // 공중점프
+        if (onGround)
+
+        // 점프&애니메이션.
+        if (Input.GetButtonDown("Jump"))
+        {
+            rigidbody.AddForce(Vector2.up * jump, ForceMode2D.Impulse);
+            anim.SetBool("IsJump", true);
+        }
 
         // 방향 전환.
         if (Mathf.Abs(hor) > 0)
@@ -93,20 +108,37 @@ public class PlayerController : MonoBehaviour
         // onGround가 true로 설정돼어야 지면에 있다고 판단해서 걸어다님.
         onGround = Physics2D.Linecast(transform.position, transform.position - (transform.up * 0.01f), grondLayer);
 
-
-        if (onGround && goJump)
+        if (rigidbody.velocity.y < 0)
         {
-            Debug.Log("점프!");
-            Vector2 jumpPw = new Vector2(0, jump);
-            rigidbody.AddForce(jumpPw, ForceMode2D.Impulse);
-            goJump = false;
+            Debug.DrawRay(rigidbody.position, Vector3.down, new Color(0, 1, 0));
+            RaycastHit2D rayHit = Physics2D.Raycast(rigidbody.position, Vector3.down, 1, LayerMask.GetMask("Ground"));
+            if (rayHit.collider != null)
+            {
+                if (rayHit.distance < 0.5f)
+                    anim.SetBool("IsJump", false);
+            }
         }
 
-    }
+        if (Input.GetKeyDown(KeyCode.X))
+        {
+            isDash = true;
+        }
 
-    public void Jump()
-    {
-        goJump = true;
-        Debug.Log("점프 버튼 눌림!");
+        if(dashTime <= 0)
+        {
+            defaultspeed = speed;
+            if (isDash)
+            {
+                dashTime = defaultTime;
+            }
+            anim.SetBool("IsDash", true);
+        }
+        else
+        {
+            anim.SetBool("IsDash", false);
+            dashTime -= Time.deltaTime;
+            defaultspeed = dashSpeed;
+        }
+        isDash = false;
     }
 }

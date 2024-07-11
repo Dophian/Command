@@ -733,6 +733,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 590735665539204366, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
+      propertyPath: dashSpeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 590735665539204366, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
+      propertyPath: defaultTime
+      value: 0.1
+      objectReference: {fileID: 0}
     - target: {fileID: 5307565279457685427, guid: 153f07b60e4ef07439a51a42017f0455, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.9156599
@@ -798,9 +806,17 @@ PrefabInstance:
       propertyPath: player
       value: 
       objectReference: {fileID: 1270841796}
+    - target: {fileID: 3547969680390838239, guid: fd0d004da397e774f94551a1966d302d, type: 3}
+      propertyPath: cooldown
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 5129896721141061255, guid: fd0d004da397e774f94551a1966d302d, type: 3}
       propertyPath: m_Name
       value: WaddleD
+      objectReference: {fileID: 0}
+    - target: {fileID: 5841411463453891220, guid: fd0d004da397e774f94551a1966d302d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.073
       objectReference: {fileID: 0}
     - target: {fileID: 7231984270631545638, guid: fd0d004da397e774f94551a1966d302d, type: 3}
       propertyPath: m_LocalPosition.x

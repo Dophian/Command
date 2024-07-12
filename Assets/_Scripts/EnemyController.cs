@@ -143,6 +143,8 @@ public class EnemyController : MonoBehaviour
         enemyAnim.SetBool("isGrounded",isGrounded);
     }
 
+
+
     private void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.green;

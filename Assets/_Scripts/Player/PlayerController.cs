@@ -25,7 +25,6 @@ public class PlayerController : MonoBehaviour
         new Tapinfo(KeyCode.A, 0f),
         new Tapinfo(KeyCode.D, 0f)
         };
-
     private float _doubleTapTime = 0.25f;
 
 
@@ -65,18 +64,23 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        //for (int i = 0; i < _tapInfos.Length; i++)
-        //{
-        //    if (Input.GetKeyDown(_tapInfos[i].keyCode))
-        //    {
-        //        float elapsedTime = Time.time - _tapInfos[i].tapTime;
+        for (int i = 0; i < _tapInfos.Length; i++)
+        {
+            if (Input.GetKeyDown(_tapInfos[i].keyCode))
+            {
+                anim.SetBool("IsDash", true);
 
-        //        if (elapsedTime <= _doubleTapTime)
-        //            defaultspeed = speed * 3;
+                float elapsedTime = Time.time - _tapInfos[i].tapTime;
 
-        //        _tapInfos[i].tapTime = Time.time;
-        //    }
-        //}
+                if (elapsedTime <= _doubleTapTime)
+                    defaultspeed = speed * 3;
+                _tapInfos[i].tapTime = Time.time;
+            }
+            if (Input.GetKeyUp(_tapInfos[i].keyCode))
+            defaultspeed = speed;
+            anim.SetBool("IsDash", false);
+
+        }
 
         float hor = Input.GetAxis("Horizontal");
         rigidbody.velocity = new Vector2(hor * defaultspeed, rigidbody.velocity.y);
@@ -119,26 +123,28 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.X))
-        {
-            isDash = true;
-        }
+        //if (Input.GetKeyDown(KeyCode.X))
+        //{
+        //    isDash = true;
+        //    anim.SetBool("IsDash", true);
+        //}
 
-        if(dashTime <= 0)
-        {
-            defaultspeed = speed;
-            if (isDash)
-            {
-                dashTime = defaultTime;
-            }
-            anim.SetBool("IsDash", true);
-        }
-        else
-        {
-            anim.SetBool("IsDash", false);
-            dashTime -= Time.deltaTime;
-            defaultspeed = dashSpeed;
-        }
-        isDash = false;
+        //if(dashTime <= 0)
+        //{
+        //    defaultspeed = speed;
+        //    if (isDash)
+        //    {
+        //        dashTime = defaultTime;
+        //    }
+            
+        //}
+        //else
+        //{
+            
+        //    dashTime -= Time.deltaTime;
+        //    defaultspeed = dashSpeed;
+        //}
+        //isDash = false;
+        //anim.SetBool("IsDash", false);
     }
 }

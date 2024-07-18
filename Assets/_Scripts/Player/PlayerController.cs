@@ -68,17 +68,16 @@ public class PlayerController : MonoBehaviour
         {
             if (Input.GetKeyDown(_tapInfos[i].keyCode))
             {
-                anim.SetBool("IsDash", true);
-
                 float elapsedTime = Time.time - _tapInfos[i].tapTime;
 
                 if (elapsedTime <= _doubleTapTime)
-                    defaultspeed = speed * 3;
+                    defaultspeed = speed * 2;
+                
                 _tapInfos[i].tapTime = Time.time;
             }
             if (Input.GetKeyUp(_tapInfos[i].keyCode))
             defaultspeed = speed;
-            anim.SetBool("IsDash", false);
+            //anim.SetBool("IsDash", false);
 
         }
 
@@ -90,6 +89,13 @@ public class PlayerController : MonoBehaviour
             anim.SetBool("IsWalking", false);
         else
             anim.SetBool("IsWalking", true);
+        // 달리기 애니메이션.
+        if (defaultspeed > 1)
+        {
+            anim.SetBool("IsDash", true);
+        }
+        else if (defaultspeed <= 1)
+            anim.SetBool("IsDash", false);
 
         // 공중점프
         if (onGround)

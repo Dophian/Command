@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 590735665539204366}
   - component: {fileID: 2168424549415362706}
   - component: {fileID: 9079197480220927471}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Kirby
   m_TagString: Player
   m_Icon: {fileID: 0}
@@ -130,14 +130,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 1
-  sprint: 2
+  defaultspeed: 1
+  isDash: 0
+  dashSpeed: 10
+  defaultTime: 0.1
   jump: 3.5
   grondLayer:
     serializedVersion: 2
     m_Bits: 64
-  stopAnime: KirbyIdle
-  walkAnime: KirbyWalk
-  jumpAnime: KirbyJump
 --- !u!95 &2168424549415362706
 Animator:
   serializedVersion: 7

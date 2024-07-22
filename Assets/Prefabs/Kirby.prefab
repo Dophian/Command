@@ -134,7 +134,7 @@ MonoBehaviour:
   isDash: 0
   dashSpeed: 10
   defaultTime: 0.1
-  jump: 3.5
+  jump: 4
   grondLayer:
     serializedVersion: 2
     m_Bits: 64

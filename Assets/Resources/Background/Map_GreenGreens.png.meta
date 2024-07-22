@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 9c8f73f106f14ce4c93934f4abcbaa28
+guid: 701bbccf3919ff944be15ac2b5bd6857
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1955448553306655712
-    second: Background_0
+      213: -7313149763894484453
+    second: Map_GreenGreens_0
+  - first:
+      213: -3795866169985278789
+    second: Map_GreenGreens_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,22 +116,42 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Background_0
+      name: Map_GreenGreens_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 336
-        height: 208
+        width: 888
+        height: 216
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
-      tessellationDetail: -1
+      physicsShape:
+      - - {x: 180, y: -8}
+        - {x: 132, y: -8}
+        - {x: 132, y: -32}
+        - {x: 108, y: -32}
+        - {x: 108, y: -56}
+        - {x: 84, y: -56}
+        - {x: 12, y: -32}
+        - {x: -132, y: -32}
+        - {x: -132, y: 38}
+        - {x: -180, y: 38}
+        - {x: -180, y: -32}
+        - {x: -276, y: -32}
+        - {x: -276, y: -56}
+        - {x: -444, y: -56}
+        - {x: -444, y: -108}
+        - {x: 180, y: -108}
+      - - {x: 348, y: -8}
+        - {x: 228, y: -8}
+        - {x: 228, y: -108}
+        - {x: 348, y: -108}
+      tessellationDetail: 0
       bones: []
-      spriteID: 024fa93b6e9dcd4e0800000000000000
-      internalID: -1955448553306655712
+      spriteID: 70bee55220e074c42a6c5c7f8b142ecf
+      internalID: -7313149763894484453
       vertices: []
       indices: 
       edges: []
@@ -136,7 +159,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: fc9efde679426584a8c7f6a207ffd988
     internalID: 0
     vertices: []
     indices: 
@@ -144,7 +167,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Background_0: -1955448553306655712
+      Map_GreenGreens_0: -7313149763894484453
+      Map_GreenGreens_1: -3795866169985278789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

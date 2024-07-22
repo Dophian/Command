@@ -2,10 +2,12 @@ using UnityEngine;
 
 public class BackgroundScroller : MonoBehaviour
 {
-    public float scrollSpeed = 0.5f;
+    public Transform camera;
+    public float relaiveMove = .3f;
+
     private void Update()
     {
-        
+        transform.position = new Vector2(camera.position.x * relaiveMove, camera.position.y * relaiveMove);
     }
 
 
